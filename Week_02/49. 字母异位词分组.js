@@ -1,4 +1,5 @@
 // 本题主要是哈希键值得设计：使用排序后的字符串作为key
+// 循环+排序，时间复杂度为O(nklogk)，n为strs的长度，k为strs中字符串的最大长度；空间复杂度为O(nk)
 var groupAnagrams = function(strs) {
   const map = new Map()
 
@@ -18,6 +19,7 @@ var groupAnagrams = function(strs) {
 };
 
 // 对字母进行计数，然后拼接为字符串作为key
+// 时间复杂度为O(nk)，n为strs的长度，k为strs中字符串的最大长度；空间复杂度和上面一样，O(nk)
 var groupAnagrams = function(strs) {
   const map = new Map()
 

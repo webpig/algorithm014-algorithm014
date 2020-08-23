@@ -32,3 +32,5 @@ var preorderTraversal = function(root) {
 
   return res
 };
+
+// 时间复杂度O(n)，n为树中节点的个数；空间复杂度，O(n)，同样n为树中节点的个数。

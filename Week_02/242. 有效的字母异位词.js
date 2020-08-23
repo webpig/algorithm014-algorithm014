@@ -1,4 +1,5 @@
 // 我们可以使用哈希表来记录字母出现的次数，如果是存在于s字符串中的则+1，t中的则-1，最后再判断哈希表中是否存在不为0的值
+// 时间复杂度：O(n)，n为字符串的长度；空间复杂度：O(1)，因为最多26个字母，这个是不变的
 const isAnagram = function(s, t) {
   if (s.length !== t.length) return false
 
@@ -19,6 +20,7 @@ const isAnagram = function(s, t) {
 }
 
 // 因为小写字母一共就26个，我们可以用size为26的数组来存储字母出现的次数，主要思路和上面一样
+// 复杂度和上面一样
 const isAnagram = function(s, t) {
   if (s.length !== t.length) return false
 
@@ -38,7 +40,7 @@ const isAnagram = function(s, t) {
   return true
 }
 
-// 使用排序，复杂度较高
+// 使用排序，复杂度较高，排序为nlogn，n为字符串的长度
 const isAnagram = function(s, t) {
   if (s.length !== t.length) return false
 
