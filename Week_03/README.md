@@ -61,6 +61,7 @@ const maxDepth = function(root) {
 const permute = function(nums) {
   const res = []
 
+  // path存储当前已选择的元素，used用于判断元素是否使用过，防止重复使用
   const dfs = (path, used) => {
     if (path.length === nums.length) {
       res.push([...path])
@@ -73,8 +74,10 @@ const permute = function(nums) {
       used[i] = true
       path.push(nums[i])
 
+      // 递归到下一层，
       dfs(path, used)
 
+      // 撤销选择，寻找更多解
       used[i] = false
       path.pop()
     }
@@ -85,3 +88,21 @@ const permute = function(nums) {
   return res
 };
 ```
+
+回溯大致模板如下：
+
+```js
+const res = []
+
+if (结束条件) {
+  res.push(当前符合条件的选择)
+  return
+}
+
+for 选择 of 选择列表
+  添加选择
+  递归添加后面的选择
+  撤销选择
+```
+
+这周的学习总结完毕，还是要多多练习。
