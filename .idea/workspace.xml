@@ -20,14 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c17fa9-02a9-4346-b1c8-e3b4c0e70353" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_04/122. 买卖股票的最佳时机 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/127. 单词接龙.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/200. 岛屿数量.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/45. 跳跃游戏 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/455. 分发饼干.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/55. 跳跃游戏.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/860. 柠檬水找零.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/874. 模拟行走机器人.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/153. 寻找旋转排序数组中的最小值.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/33. 搜索旋转排序数组.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/74. 搜索二维矩阵.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_04/127. 单词接龙.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/127. 单词接龙.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_04/45. 跳跃游戏 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/45. 跳跃游戏 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +65,33 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_04" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.33. 搜索旋转排序数组.js">
+    <configuration name="127. 单词接龙.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Week_04/127. 单词接龙.js" working-dir="$PROJECT_DIR$/Week_04">
+      <method v="2" />
+    </configuration>
+    <configuration name="33. 搜索旋转排序数组.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Week_04/33. 搜索旋转排序数组.js" working-dir="$PROJECT_DIR$/Week_04">
+      <method v="2" />
+    </configuration>
+    <configuration name="node" type="NodeJSConfigurationType" path-to-node="node" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.node" />
+      <item itemvalue="Node.js.127. 单词接龙.js" />
+      <item itemvalue="Node.js.33. 搜索旋转排序数组.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.33. 搜索旋转排序数组.js" />
+        <item itemvalue="Node.js.127. 单词接龙.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +103,9 @@
       <workItem from="1599357780561" duration="1595000" />
       <workItem from="1599359645048" duration="159000" />
       <workItem from="1599370883205" duration="1068000" />
-      <workItem from="1599375958121" duration="4406000" />
+      <workItem from="1599375958121" duration="8544000" />
+      <workItem from="1599455859496" duration="2839000" />
+      <workItem from="1599483788563" duration="9840000" />
     </task>
     <servers />
   </component>
@@ -97,10 +125,42 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="501" y="247" key="#Web_Browsers" timestamp="1599456923469">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="501" y="247" key="#Web_Browsers/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599456923469" />
+    <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599456947036">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599456947036" />
+    <state width="1419" height="144" key="GridCell.Tab.0.bottom" timestamp="1599498175627">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="42" key="GridCell.Tab.0.bottom/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599458859052" />
+    <state width="1419" height="144" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599498175627" />
+    <state width="1419" height="144" key="GridCell.Tab.0.center" timestamp="1599498175626">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="42" key="GridCell.Tab.0.center/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599458859051" />
+    <state width="1419" height="144" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599498175626" />
+    <state width="1419" height="144" key="GridCell.Tab.0.left" timestamp="1599498175625">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="42" key="GridCell.Tab.0.left/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599458859049" />
+    <state width="1419" height="144" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599498175625" />
+    <state width="1419" height="144" key="GridCell.Tab.0.right" timestamp="1599498175627">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="42" key="GridCell.Tab.0.right/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599458859051" />
+    <state width="1419" height="144" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599498175627" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1599371509756">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1599371509756" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1599456572329">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599456572329" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599406248252">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

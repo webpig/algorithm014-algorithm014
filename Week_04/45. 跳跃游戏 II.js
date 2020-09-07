@@ -37,5 +37,5 @@ var jump = function(nums) {
 		}
 	}
 
-	return  steps
+	return steps
 };
