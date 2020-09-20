@@ -20,13 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c17fa9-02a9-4346-b1c8-e3b4c0e70353" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_04/153. 寻找旋转排序数组中的最小值.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/33. 搜索旋转排序数组.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/74. 搜索二维矩阵.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_06/221. 最大正方形.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_06/32. 最长有效括号.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_06/64. 最小路径和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_06/647. 回文子串.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_06/72. 编辑距离.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_06/91. 解码方法.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_04/127. 单词接龙.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/127. 单词接龙.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_04/45. 跳跃游戏 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/45. 跳跃游戏 II.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_06/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_06/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -105,7 +106,8 @@
       <workItem from="1599370883205" duration="1068000" />
       <workItem from="1599375958121" duration="8544000" />
       <workItem from="1599455859496" duration="2839000" />
-      <workItem from="1599483788563" duration="9840000" />
+      <workItem from="1599483788563" duration="10451000" />
+      <workItem from="1600485097575" duration="22720000" />
     </task>
     <servers />
   </component>
@@ -133,30 +135,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599456947036" />
-    <state width="1419" height="144" key="GridCell.Tab.0.bottom" timestamp="1599498175627">
+    <state width="1419" height="203" key="GridCell.Tab.0.bottom" timestamp="1599499776895">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="42" key="GridCell.Tab.0.bottom/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599458859052" />
-    <state width="1419" height="144" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599498175627" />
-    <state width="1419" height="144" key="GridCell.Tab.0.center" timestamp="1599498175626">
+    <state width="1419" height="203" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599499776895" />
+    <state width="1419" height="203" key="GridCell.Tab.0.center" timestamp="1599499776894">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="42" key="GridCell.Tab.0.center/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599458859051" />
-    <state width="1419" height="144" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599498175626" />
-    <state width="1419" height="144" key="GridCell.Tab.0.left" timestamp="1599498175625">
+    <state width="1419" height="203" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599499776894" />
+    <state width="1419" height="203" key="GridCell.Tab.0.left" timestamp="1599499776893">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="42" key="GridCell.Tab.0.left/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599458859049" />
-    <state width="1419" height="144" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599498175625" />
-    <state width="1419" height="144" key="GridCell.Tab.0.right" timestamp="1599498175627">
+    <state width="1419" height="203" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599499776893" />
+    <state width="1419" height="203" key="GridCell.Tab.0.right" timestamp="1599499776894">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="42" key="GridCell.Tab.0.right/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599458859051" />
-    <state width="1419" height="144" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599498175627" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1599371509756">
+    <state width="1419" height="203" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599499776894" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1599499547510">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1599371509756" />
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1599499547510" />
     <state x="385" y="210" key="run.anything.popup" timestamp="1599456572329">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
