@@ -20,14 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c17fa9-02a9-4346-b1c8-e3b4c0e70353" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_06/221. 最大正方形.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_06/32. 最长有效括号.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_06/64. 最小路径和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_06/647. 回文子串.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_06/72. 编辑距离.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_06/91. 解码方法.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/127. 单词接龙.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/130. 被围绕的区域.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/200. 岛屿数量.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/208. 实现 Trie (前缀树).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/212. 单词搜索 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/36. 有效的数独.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/433. 最小基因变化.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/51. N 皇后.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/547. 朋友圈.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/70. 爬楼梯.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/Trie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_07/UnionFind.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_06/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_06/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_07/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_07/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +113,9 @@
       <workItem from="1599375958121" duration="8544000" />
       <workItem from="1599455859496" duration="2839000" />
       <workItem from="1599483788563" duration="10451000" />
-      <workItem from="1600485097575" duration="22720000" />
+      <workItem from="1600485097575" duration="23080000" />
+      <workItem from="1601087510014" duration="5394000" />
+      <workItem from="1601181174244" duration="5028000" />
     </task>
     <servers />
   </component>
