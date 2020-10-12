@@ -20,20 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c17fa9-02a9-4346-b1c8-e3b4c0e70353" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_07/127. 单词接龙.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/130. 被围绕的区域.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/200. 岛屿数量.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/208. 实现 Trie (前缀树).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/212. 单词搜索 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/36. 有效的数独.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/433. 最小基因变化.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/51. N 皇后.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/547. 朋友圈.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/70. 爬楼梯.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/Trie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/UnionFind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_08/1122. 数组的相对排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_08/146. LRU缓存机制.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_08/190. 颠倒二进制位.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_08/191. 位1的个数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_08/231. 2的幂.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_08/242. 有效的字母异位词.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_08/51. N 皇后.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_08/52. N皇后 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_08/56. 合并区间.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_08/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_07/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_07/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -59,6 +57,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -77,7 +76,10 @@
       <recent name="$PROJECT_DIR$/Week_04" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.33. 搜索旋转排序数组.js">
+  <component name="RunManager" selected="JavaScript Debug.test.html">
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/algorithm014-algorithm014/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="127. 单词接龙.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Week_04/127. 单词接龙.js" working-dir="$PROJECT_DIR$/Week_04">
       <method v="2" />
     </configuration>
@@ -91,9 +93,11 @@
       <item itemvalue="Node.js.node" />
       <item itemvalue="Node.js.127. 单词接龙.js" />
       <item itemvalue="Node.js.33. 搜索旋转排序数组.js" />
+      <item itemvalue="JavaScript Debug.test.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.test.html" />
         <item itemvalue="Node.js.33. 搜索旋转排序数组.js" />
         <item itemvalue="Node.js.127. 单词接龙.js" />
       </list>
@@ -115,7 +119,9 @@
       <workItem from="1599483788563" duration="10451000" />
       <workItem from="1600485097575" duration="23080000" />
       <workItem from="1601087510014" duration="5394000" />
-      <workItem from="1601181174244" duration="5028000" />
+      <workItem from="1601181174244" duration="5334000" />
+      <workItem from="1601275727899" duration="11000" />
+      <workItem from="1602383301307" duration="21153000" />
     </task>
     <servers />
   </component>
