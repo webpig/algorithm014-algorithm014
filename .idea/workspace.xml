@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c17fa9-02a9-4346-b1c8-e3b4c0e70353" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_09/205. 同构字符串.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_09/387. 字符串中的第一个唯一字符.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_09/541. 反转字符串 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_09/557. 反转字符串中的单词 III.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_09/680. 验证回文字符串 Ⅱ.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_09/917. 仅仅反转字母.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_09/151. 翻转字符串里的单词.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_09/300. 最长上升子序列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_09/32. 最长有效括号.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_09/5. 最长回文子串.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_09/91. 解码方法.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week_09/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_09/README.md" afterDir="false" />
@@ -131,7 +130,7 @@
       <workItem from="1601275727899" duration="11000" />
       <workItem from="1602383301307" duration="33667000" />
       <workItem from="1602720146469" duration="5309000" />
-      <workItem from="1603031741585" duration="12094000" />
+      <workItem from="1603031741585" duration="31372000" />
     </task>
     <servers />
   </component>
