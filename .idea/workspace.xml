@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c17fa9-02a9-4346-b1c8-e3b4c0e70353" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_09/151. 翻转字符串里的单词.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_09/300. 最长上升子序列.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_09/32. 最长有效括号.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_09/5. 最长回文子串.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_09/91. 解码方法.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-10 毕业总结/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_09/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_09/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +52,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week-10 毕业总结" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,6 +64,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week-10 毕业总结" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Week_04" />
     </key>
@@ -130,7 +128,9 @@
       <workItem from="1601275727899" duration="11000" />
       <workItem from="1602383301307" duration="33667000" />
       <workItem from="1602720146469" duration="5309000" />
-      <workItem from="1603031741585" duration="31372000" />
+      <workItem from="1603031741585" duration="36439000" />
+      <workItem from="1603249965597" duration="17000" />
+      <workItem from="1604153723493" duration="2038000" />
     </task>
     <servers />
   </component>
@@ -158,6 +158,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599456947036" />
+    <state x="394" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604153749636">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="394" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1604153749636" />
+    <state x="307" y="224" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1604153907378">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="307" y="224" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1440.900@0.0.1440.900" timestamp="1604153907378" />
     <state width="1396" height="200" key="GridCell.Tab.0.bottom" timestamp="1603046962120">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
