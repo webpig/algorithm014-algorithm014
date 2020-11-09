@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c17fa9-02a9-4346-b1c8-e3b4c0e70353" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week-10 毕业总结/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week_08/sort.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
       <recent name="$PROJECT_DIR$/Week_04" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.387. 字符串中的第一个唯一字符.js">
+  <component name="RunManager" selected="Node.js.sort.js">
     <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/algorithm014-algorithm014/test.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -100,8 +100,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.387. 字符串中的第一个唯一字符.js" />
         <item itemvalue="Node.js.sort.js" />
+        <item itemvalue="Node.js.387. 字符串中的第一个唯一字符.js" />
         <item itemvalue="JavaScript Debug.test.html" />
         <item itemvalue="Node.js.33. 搜索旋转排序数组.js" />
         <item itemvalue="Node.js.127. 单词接龙.js" />
@@ -130,7 +130,8 @@
       <workItem from="1602720146469" duration="5309000" />
       <workItem from="1603031741585" duration="36439000" />
       <workItem from="1603249965597" duration="17000" />
-      <workItem from="1604153723493" duration="2038000" />
+      <workItem from="1604153723493" duration="7879000" />
+      <workItem from="1604911745760" duration="932000" />
     </task>
     <servers />
   </component>
@@ -166,25 +167,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="307" y="224" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1440.900@0.0.1440.900" timestamp="1604153907378" />
-    <state width="1396" height="200" key="GridCell.Tab.0.bottom" timestamp="1603046962120">
+    <state width="1396" height="26" key="GridCell.Tab.0.bottom" timestamp="1604912637724">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="122" key="GridCell.Tab.0.bottom/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1602728457807" />
+    <state width="1396" height="26" key="GridCell.Tab.0.bottom/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1604912637724" />
     <state width="1396" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603046962120" />
-    <state width="1396" height="200" key="GridCell.Tab.0.center" timestamp="1603046962118">
+    <state width="1396" height="26" key="GridCell.Tab.0.center" timestamp="1604912637722">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="122" key="GridCell.Tab.0.center/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1602728457806" />
+    <state width="1396" height="26" key="GridCell.Tab.0.center/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1604912637722" />
     <state width="1396" height="200" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603046962118" />
-    <state width="1396" height="200" key="GridCell.Tab.0.left" timestamp="1603046962115">
+    <state width="1396" height="26" key="GridCell.Tab.0.left" timestamp="1604912637721">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="122" key="GridCell.Tab.0.left/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1602728457805" />
+    <state width="1396" height="26" key="GridCell.Tab.0.left/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1604912637721" />
     <state width="1396" height="200" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603046962115" />
-    <state width="1396" height="200" key="GridCell.Tab.0.right" timestamp="1603046962119">
+    <state width="1396" height="26" key="GridCell.Tab.0.right" timestamp="1604912637723">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="122" key="GridCell.Tab.0.right/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1602728457807" />
+    <state width="1396" height="26" key="GridCell.Tab.0.right/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1604912637723" />
     <state width="1396" height="200" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603046962119" />
     <state x="308" y="200" key="IDE.errors.dialog" timestamp="1603076049221">
       <screen x="0" y="0" width="1440" height="900" />

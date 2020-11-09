@@ -153,9 +153,50 @@ function heapSort(arr) {
 	return arr
 }
 
+function mergeSort(arr) {
+	merge(arr, 0, arr.length - 1)
+	return arr
+}
+
+function merge(arr, l, r) {
+	if (l === r) return arr[l]
+
+	const mid = (l + r) >> 1
+	const leftArr = merge(arr, 0, mid)
+	const rightArr = merge(arr, mid + 1, r)
+
+	return mergeTwoLists(leftArr, rightArr)
+}
+
+function mergeTwoLists(arr1, arr2) {
+	const len1 = arr1.length, len2 = arr2.length
+	let mergedArr = [], i1 = 0, i2 = 0
+
+	while (i1 < len1 && i2 < len2) {
+		if (arr1[i1] < arr2[i2]) {
+			mergedArr.push(arr1[i1])
+			i1++
+		} else {
+			mergedArr.push(arr2[i2])
+			i2++
+		}
+	}
+
+	if (i1 < len1) {
+		mergedArr = mergedArr.concat(arr1.slice(i1))
+	}
+
+	if (i2 < len2) {
+		mergedArr = mergedArr.concat(arr2.slice(i2))
+	}
+
+	return mergedArr
+}
+
 const arr = [3, 1, 5, 4, 2, 5, 6, 0]
 // console.log(bubbleSort(arr))
 // console.log(selectionSort(arr))
 // console.log(insertionSort(arr))
 // console.log(shellSort(arr))
 console.log('heap', heapSort(arr)) // heap [0, 1, 2, 3, 4, 5, 5, 6]
+console.log('mergeSort', mergeSort(arr))
