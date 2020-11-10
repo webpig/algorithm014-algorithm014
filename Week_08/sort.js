@@ -193,6 +193,55 @@ function mergeTwoLists(arr1, arr2) {
 	return mergedArr
 }
 
+// function quickSort(arr) {
+// 	if (arr.length <= 1) return arr
+//
+// 	const pivot = arr.pop()
+// 	const leftArr = [], rightArr = []
+//
+// 	for (const val of arr) {
+// 		if (val <= pivot) {
+// 			leftArr.push(val)
+// 		} else {
+// 			rightArr.push(val)
+// 		}
+// 	}
+//
+// 	return quickSort(leftArr).concat(pivot, quickSort(rightArr))
+// }
+function quickSort(arr) {
+	quickSortHelper(arr, 0, arr.length - 1)
+	return arr
+}
+
+function quickSortHelper(arr, l, r) {
+	if (l >= r) {
+		return
+	}
+
+	const pivot = partition(arr, l, r)
+	quickSortHelper(arr, l, pivot - 1)
+	quickSortHelper(arr, pivot + 1, r)
+}
+
+function partition(arr, l, r) {
+	let pivot = arr[r]
+	let i = l
+
+	while (l < r) {
+		if (arr[l] > pivot) {
+			[arr[i], arr[l]] = [arr[l], arr[i]]
+			i++
+		}
+
+		l++
+	}
+
+	[arr[i], arr[r]] = [arr[r], arr[i]]
+
+	return i
+}
+
 const arr = [3, 1, 5, 4, 2, 5, 6, 0]
 // console.log(bubbleSort(arr))
 // console.log(selectionSort(arr))
@@ -200,3 +249,4 @@ const arr = [3, 1, 5, 4, 2, 5, 6, 0]
 // console.log(shellSort(arr))
 console.log('heap', heapSort(arr)) // heap [0, 1, 2, 3, 4, 5, 5, 6]
 console.log('mergeSort', mergeSort(arr))
+console.log('quickSort', quickSort(arr))
